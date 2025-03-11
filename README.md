@@ -19,7 +19,7 @@ I've also been honored to serve as a member of the prestigious **Forbes Technolo
 ---
 
 ## Skills & Expertise
-- **Cloud Computing:** Azure, AWS, Google Cloud
+- **Cloud Computing:** Azure, Oracle, AWS, Google Cloud
 - **SaaS Development & Automation**
 - **Artificial Intelligence & Machine Learning**
 - **Cybersecurity & Data Privacy**
