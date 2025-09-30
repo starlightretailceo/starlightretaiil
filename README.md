@@ -130,16 +130,3 @@ Los Angeles-based founder building intelligent commerce automation. Outside work
   <img src="https://streak-stats.demolab.com?user=starlightretailceo&theme=react" alt="GitHub Streak"/>
   <img src="https://github-profile-trophy.vercel.app/?username=starlightretailceo&theme=flat&no-frame=true&margin-w=5" alt="Trophies"/>
 </p>
-
----
-
-### 🧩 Optional Extras (Available)
-- Reading list (distributed systems / agent frameworks).  
-- "Now" — what we're shipping this month.  
-- Architecture diagram (SVG/PNG).  
-- Founder-story variant (short narrative for partners/investors).
-
----
-
-*If you'd like, I can also produce a concise "founder-story" variant (1/3 length) and export both README_v3.md and a short variant to files you can download.*
-
